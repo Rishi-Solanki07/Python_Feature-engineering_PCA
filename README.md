@@ -15,7 +15,7 @@ Welcome to my project repository. This project entails a comprehensive journey f
 
 # Contents:
 Presentation on Data Preprocessing and PCA:
-[View my Project explanation](https://docs.google.com/presentation/d/1xPkK6cqlTKI332mO2Xz4SEKJNomCVFBq/edit?usp=sharing&ouid=101082540720314963908&rtpof=true&sd=true)
+[View my Project explanation0].(https://docs.google.com/presentation/d/1xPkK6cqlTKI332mO2Xz4SEKJNomCVFBq/edit?usp=sharing&ouid=101082540720314963908&rtpof=true&sd=true)
 Delve into the step-by-step breakdown of the preprocessing techniques and dimensionality reduction methods employed in this project. The presentation provides a visual guide to the entire data analysis journey.
 
 # Dataset (Excel File):
