@@ -1,4 +1,7 @@
 # problem statement 
+Before building any models or making predictions, we must ensure our dataset is ready. Here's the problem: our data comes with over 50 variables (columns), and having too many can impact our model's efficiency. we can reduce too-many varibales with Principal Component Analysis (PCA). However, before we reduce variables, we need to complete the Exploratory Data Analysis (EDA) process. This readme serves as your guide, explaining how we navigate the data, solve the variable problem using PCA, all while preserving the essence of the original dataset.
+
+# Important Info 
 PCA on Female-Headed Households' Census Data (2011)
 
 The Indian Census, one of the most reputed globally, has been consistently conducted every ten years since 1872. The 2011 Census marks the fifteenth in this series and provides detailed insights into India's demographics.
