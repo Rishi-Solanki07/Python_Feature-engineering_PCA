@@ -1,5 +1,9 @@
 # problem statement 
-Before building any models or making predictions, we must ensure our dataset is ready. Here's the problem: our data comes with over 50 variables (columns), and having too many can impact our model's efficiency. we can reduce too-many varibales with Principal Component Analysis (PCA). However, before we reduce variables, we need to complete the Exploratory Data Analysis (EDA) process. This readme serves as your guide, explaining how we navigate the data, solve the variable problem using PCA, all while preserving the essence of the original dataset.
+Before building any models or making predictions, we must ensure our dataset is ready. Here's the problem: our data comes with over 50 variables (columns), and having too many can impact our model's efficiency. we can reduce too-many varibales with Principal Component Analysis (PCA). However, before we reduce variables, we need to complete the Exploratory Data Analysis (EDA) process. 
+
+
+
+This readme serves as your guide, explaining how we navigate the data, solve the variable problem using PCA, all while preserving the essence of the original dataset.
 
 # Important Info 
 PCA on Female-Headed Households' Census Data (2011)
